@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medical Monitoring Application</string>
+    <string name="title_activity_map">Map</string>
+    <string name="hyperlink"></string>
+    <string name="about_us">ABOUT US</string>
+        <string name="heal_about">Welcome to QuickMedic, your trusted companion in times of medical need! Our application is designed with a singular mission: to help you find the nearest hospitals and clinics around you swiftly and effortlessly. We are committed to providing you with a reliable platform that brings the best healthcare options right to your fingertips. Using QuickMedic is as easy as it gets. With our user-friendly interface and intuitive map, you can quickly locate hospitals and clinics in your vicinity.</string>Welcome to QuickMedic, your trusted companion in times of medical need! Our application is designed with a singular mission: to help you find the nearest hospitals and clinics around you swiftly and effortlessly. We are committed to providing you with a reliable platform that brings the best healthcare options right to your fingertips. Using QuickMedic is as easy as it gets. With our user-friendly interface and intuitive map, you can quickly locate hospitals and clinics in your vicinity./string>
+    <string name="home">Home</string>
+    <string name="check_place">Fast Check Place</string>
+    <string name="welcome_greet">Welcome! Please sign in first.</string>
+</resources>
